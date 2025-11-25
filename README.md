@@ -1,43 +1,27 @@
-🌟 Hey there! I'm Boyan
-Software Engineering student @ TU • Web Dev Enthusiast • Always Learning
+🌟 Hey there! I’m Boyan — driven by curiosity, motivated by challenges, and always building real, functional projects. I love learning new technologies, solving problems, and turning ideas into solutions that make an impact. Right now I'm exploring everything from full-stack development to experimenting with low-level systems. If something sparks my interest, I dive into it and learn fast.
 
-I’m Boyan (Bokobok21), a first-year Computer & Software Engineering student at TU.
-I love building things that solve real problems — my first big project was a .NET web app that helps people organize shared travelling, reducing cost by connecting travelers going to the same place.
+What I Work With:
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40"/> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg](https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png)" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="40"/> </p>
 
-Right now I'm exploring everything from full-stack development to Linux customization.
-If something sparks my interest, I dive into it and learn fast.
-
-What I Work With
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="40"/> </p>
 📚 Currently Learning
 
-Rust (just starting out)
-
-Python (school)
+Python (in school) and Rust (just starting out) 
 
 🌎 Featured Project — SharedTravelling (named testproject)
 
 A website where people can create and find shared travel plans.
 The idea: connect people going to the same destination → split costs → make travel cheaper and more social.
 
-
 🎯 A Little About Me
 
 I’ve always been the kind of person who picks up new hobbies — and gets good at them fast.
-
 Some things I’ve done over the years:
-
+Pursued drawing (especially manga style)
 Competed with Rubik’s cubes
-
-Participated in math competitions (even won a gold medal in 5th grade)
-
+Participated in math competitions
 Trained karate, calisthenics, and went to the gym
+Did photography a while back
 
-Tried photography and drawing
-
-Currently addicted to customizing and ricing my Linux setup
-
-I like challenges. They make learning fun.
 
 
 
