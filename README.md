@@ -26,7 +26,7 @@ The idea: connect people going to the same destination → split costs → make 
 
 I’ve always been the kind of person who picks up new hobbies — and gets good at them fast.
 
-Some things I’ve done over the years include drawing (especially manga style), competing with Rubik’s cubes, math competitions, karate, calisthenics and a bit of photography
+Some things I’ve done over the years include drawing (especially manga style), competing with Rubik’s cubes, math competitions, karate, calisthenics and a bit of photography.
 
 
 
