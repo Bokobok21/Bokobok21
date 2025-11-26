@@ -4,6 +4,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
@@ -25,12 +26,7 @@ The idea: connect people going to the same destination → split costs → make 
 
 I’ve always been the kind of person who picks up new hobbies — and gets good at them fast.
 
-Some things I’ve done over the years:
-Pursued drawing (especially manga style); 
-Competed with Rubik’s cubes; 
-Participated in math competitions; 
-Trained karate and calisthenics;  
-Did photography for a couple of months
+Some things I’ve done over the years: drawing (especially manga style), competed with Rubik’s cubes, math competitions, karate and calisthenics and photography for a while
 
 
 
