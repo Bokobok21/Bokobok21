@@ -15,7 +15,7 @@
 
 <strong>📚 CURRENTLY LEARNING</strong>
 
-Python (in school) and Rust (just starting out) 
+Python (in school) and Golang (just starting out) 
 
 <strong>🌎 FEATURED PROJECT - SHAREDTRAVELLING (NAMED TESTPROJECT)</strong>
 
