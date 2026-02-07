@@ -15,7 +15,7 @@
 
 <strong>📚 CURRENTLY LEARNING</strong>
 
-Python (in school) and Golang (just starting out) 
+Golang and Python (in school) 
 
 <strong>🌎 FEATURED PROJECT - SHAREDTRAVELLING (NAMED TESTPROJECT)</strong>
 
