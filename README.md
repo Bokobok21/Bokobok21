@@ -2,6 +2,7 @@
 
 <strong>🔧 TECHNOLOGIES I WORK WITH</strong>
 <p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
@@ -9,13 +10,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="40"/>
 </p>
 
-<strong>📚 CURRENTLY LEARNING</strong>
+<strong>📚 OTHER TECHNOLOGIES I'VE USED</strong>
 
-Golang and Python (in school) 
+Docker and C (at university) 
 
 <strong>🌎 FEATURED PROJECT - SHAREDTRAVELLING (NAMED TESTPROJECT)</strong>
 
