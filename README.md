@@ -19,7 +19,7 @@
 
 Docker and C (at university) 
 
-<strong>🌎 FEATURED PROJECT - SHAREDTRAVELLING (NAMED TESTPROJECT)</strong>
+<strong>🌎 FEATURED PROJECT - SHAREDTRAVELLING</strong>
 
 A website where people can create and find shared travel plans.
 The idea: connect people going to the same destination → split costs → make travel cheaper and more social.
